@@ -1,4 +1,4 @@
-# Backstage
+# Hello There 👋
 
 We're Backstage and we make competition apps for brands and agencies. 
 
