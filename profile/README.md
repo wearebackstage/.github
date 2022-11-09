@@ -1,6 +1,8 @@
 # Backstage
 
-We build event tech and brand activations for live-event and experiential marketing agencies, allowing them to pitch to their brands with confidence. This means we do a lot and lots of custom web development with things like Django, React.js, Vue.js, Ember.js among many other technologies. If you're interested in this stuff, [reach out and say hello](https://wearebackstage.com/contact-us/) - we're always looking to connect with great developers.
+We build event tech and brand activations for live-event and experiential marketing agencies, allowing them to pitch to their brands with confidence.
+
+This means we do a lot and lots of custom web development with things like Django, React.js, Vue.js, Ember.js among many other technologies. If you're interested in this stuff, [reach out and say hello](https://wearebackstage.com/contact-us/) - we're always looking to connect with great developers.
 
 While you're here:
 
