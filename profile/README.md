@@ -1,14 +1,15 @@
-# Hello There 👋
+# Backstage
 
-We're Backstage and we make competition apps for brands and agencies. 
+We build event tech and brand activations for live-event and experiential marketing agencies, allowing them to pitch to their brands with confidence. This means we do a lot and lots of custom web development with things like Django, React.js, Vue.js, Ember.js among many other technologies. If you're interested in this stuff, [reach out and say hello](https://wearebackstage.com/contact-us/) - we're always looking to connect with great developers.
 
-<!--
+While you're here:
 
-**Here are some ideas to get you started:**
+- 🔗 [Check out our website](https://wearebackstage.com)
+- ✉️ [Sign up for our brand activation ideas email series](https://wearebackstage.com/digital-brand-activation-10-day-email-series/)
+- 👓 [Browse through our blog](https://wearebackstage.com/blog/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Connect with us elsewhere around the web:
+
+- 👔 [LinkedIn](https://www.linkedin.com/company/65874779/admin/)
+- 🦩 [Twitter](https://twitter.com/backstage_dev)
+- 📷 [Instagram](https://www.instagram.com/backstage_activations/)
